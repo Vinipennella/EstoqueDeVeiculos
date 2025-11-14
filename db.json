@@ -1,25 +1,29 @@
 {
-  "inventoryId": "VEH-INV-2025-01",
-  "dealer": "Concessionária AutoPrime",
-  "totalVehicles": 3,
-  "vehicles": [
+  "inventory": [
     {
-      "vin": "9BWZZZ377VT004251",
-      "model": "SUV ZX 2.0",
-      "year": 2025,
-      "status": "Disponível"
-    },
-    {
-      "vin": "9BWZZZ377VT004260",
-      "model": "Sedan LX 1.6",
-      "year": 2025,
-      "status": "Vendido"
-    },
-    {
-      "vin": "9BWZZZ377VT004261",
-      "model": "Hatch FX 1.0",
-      "year": 2025,
-      "status": "Em transferência"
+      "inventoryId": "VEH-INV-2025-01",
+      "dealer": "Concessionária AutoPrime",
+      "totalVehicles": 3,
+      "vehicles": [
+        {
+          "vin": "9BWZZZ377VT004251",
+          "model": "SUV ZX 2.0",
+          "year": 2025,
+          "status": "Disponível"
+        },
+        {
+          "vin": "9BWZZZ377VT004260",
+          "model": "Sedan LX 1.6",
+          "year": 2025,
+          "status": "Vendido"
+        },
+        {
+          "vin": "9BWZZZ377VT004261",
+          "model": "Hatch FX 1.0",
+          "year": 2025,
+          "status": "Em transferência"
+        }
+      ]
     }
   ]
 }
